@@ -1,4 +1,4 @@
-Ralio board based on ESP8266 core
+Mercury Development Board
 ===========================================
 
 ## Arduino on ESP8266
@@ -15,15 +15,14 @@ ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and
 
 ### Installing with Boards Manager
 
-Starting with 1.6.4, Arduino allows installation of third-party platform packages using Boards Manager. We have packages available for Windows, Mac OS, and Linux (32 and 64 bit).
-
-- Install the current upstream Arduino IDE at the 1.8.9 level or later. The current version is on the [Arduino website](https://www.arduino.cc/en/software).
+- Install the current upstream Arduino IDE at the 2.3.4 level or later. The current version is on the [Arduino website](https://www.arduino.cc/en/software).
 - Start Arduino and open the Preferences window.
-- Enter ```https://raw.githubusercontent.com/raliotech/engineering/master/core/package_ralio_index.json``` into the *File>Preferences>Additional Boards Manager URLs* field of the Arduino IDE. You can add multiple URLs, separating them with commas.
-- Open Boards Manager from Tools > Board menu and install *esp8266* platform (and don't forget to select your ESP8266 board from Tools > Board menu after installation).
+- Enter ```https://raw.githubusercontent.com/RoboticsAI-Lab/products/refs/heads/master/core/package_ral_index.json``` into the *File>Preferences>Additional Boards Manager URLs* field of the Arduino IDE. You can add multiple URLs, separating them with commas.
+- Open Boards Manager from Tools > Board menu and install *Mercury* platform (and don't forget to select your Mercury board from Tools > Board menu after installation).
 
 ### Initiating Flashing ###
-Start with pressing the "FLASH" button in the bottom left of the board. With the FLASH button pressed, press and release the "RESET" button in the bottom right of the board.
+To initial code upload, *press and hold* "FLASH" button towards the bottom left of the board when you see "Connecting..." in Arduino IDE terminal.
+Let go off the FLash button once the code starts to upload.
 
 ### License and credits ###
 
