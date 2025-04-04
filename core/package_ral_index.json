@@ -12,13 +12,16 @@
             {
                "category": "ESP8266",
                "name": "Robotics AI Lab",
-               "url": "https://github.com/RoboticsAI-Lab/products/releases/download/mercury/ral-1.0.0.zip",
+               "url": "https://github.com/RoboticsAI-Lab/products/releases/download/ral_v1.0.0/ral-1.0.0.zip",
                "version": "1.0.0",
                "architecture": "esp8266",
                "archiveFileName": "ral-1.0.0.zip",
                "boards": [
                   {
-                     "name": "Mercury"
+                     "name": "Mercury 1.0"
+                  },
+                  {
+                     "name": "Mercury 2.0"
                   }
                ],
                "toolsDependencies": [
@@ -46,8 +49,8 @@
                "help": {
                   "online": "https://esp8266.com/arduino"
                },
-               "size": "268468717",
-               "checksum": "SHA-256:e11efb97dc314fdc6f5c0cd900d0090bdd35bf38fd52e898aa48104a3b5ff4a0"
+               "size": "40291347",
+               "checksum": "SHA-256:928d543a278980ad1be62cbe39aee18c5022d5faf25a7470462fdead0c6926e4"
             }
          ],
          "tools": [
