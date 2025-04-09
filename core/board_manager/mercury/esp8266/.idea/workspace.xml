@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d72bbc-11f3-4a23-9742-e50cf7a32e88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../projects/scout/scout_2wd/firmware/scout_basic/scout_basic.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../../../projects/scout/scout_2wd/firmware/scout_basic/scout_basic.ino" afterDir="false" />
-    </list>
+    <list default="true" id="b9d72bbc-11f3-4a23-9742-e50cf7a32e88" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -23,7 +21,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "gg__20250405__readme",
     "last_opened_file_path": "/Users/gaurang/raliotech/products/core/board_manager/esp8266"
   }
 }]]></component>
